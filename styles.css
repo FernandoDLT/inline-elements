@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+span {
+    border: 3px solid rgb(236, 21, 21);
+    padding: 10px;
+}
